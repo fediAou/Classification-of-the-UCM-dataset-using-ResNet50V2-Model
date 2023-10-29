@@ -5,27 +5,27 @@ you can download the dataset from http://weegee.vision.ucmerced.edu/datasets/lan
 
 ### Classes
 The dataset consists of 21 classes: 
-agricultural
-airplane
-baseballdiamond
-beach
-buildings
-chaparral
-denseresidential
-forest
-freeway
-golfcourse
-harbor
-intersection
-mediumresidential
-mobilehomepark
-overpass
-parkinglot
-river
-runway
-sparseresidential
-storagetanks
-tenniscourt
+- agricultural
+- airplane
+- baseballdiamond
+- beach
+- buildings
+- chaparral
+- denseresidential
+- forest
+- freeway
+- golfcourse
+- harbor
+- intersection
+- mediumresidential
+- mobilehomepark
+- overpass
+- parkinglot
+- river
+- runway
+- sparseresidential
+- storagetanks
+- tenniscourt
 
 There are 100 Images for each class
 
